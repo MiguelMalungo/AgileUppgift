@@ -1,1 +1,6 @@
-# AgileUppgift
+1 - En Scrum Sprint är uppdelad i fyra distinkta ögonblick: Planering, Utveckling, Granskning och Retrospektiv.
+I Planeringsögonblicket diskuterar teamet målen för sprinten och tilldelar uppgifter till teammedlemmarna. Under utvecklingsögonblicket arbetar teammedlemmar med sina tilldelade uppgifter och samarbetar för att skapa produkten. Gransknings är när teamet kontrollerar produktens framsteg och säkerställer att den uppfyller de mål som satts upp under Planeringsögonblicket. Slutligen är det retrospektiva ögonblicket när laget reflekterar över sprinten och justerar processen för framtida sprints.
+
+2 - Varje medlem bidrar med 6 eller fler användarberättelser. Bland dem valde vi ut några från varje medlem och röstade på dem enligt prioriteringar med hjälp av pokermjukvaran.
+
+3 - Användarberättelser är bra för att definiera mål och funktioner för en apputveckling. De ger en tydlig bild av appanvändarnas behov. Användarberättelsen görs när funktionaliteten har skapats och testats. Det finns till exempel ett behov av en karta i appen för att hitta några platser. Vi definierar det behovet och varför, sedan bestämmer vi hur vi ska bygga och komma åt funktionaliteten, bygga den och testa den.
